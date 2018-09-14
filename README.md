@@ -80,22 +80,6 @@ this.$refs.pays.$success(true).then(res => {
 this.$refs.pays.$fail('可以自定义错误提示，默认：支付密码错误')  
 ```  
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
 
 ## Build Setup
 
